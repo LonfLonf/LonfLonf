@@ -6,4 +6,4 @@
 - 🎮 I like programming tools and projects for games.
 - 💻 I'm currently working as a Software Development Intern.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonfLonf&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonflonf&layout=compact&hide=html&theme=transparent&langs_count=10)
